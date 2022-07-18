@@ -22,3 +22,48 @@ knitr::opts_chunk$set(
 The goal of rokpadash is to ...
 
 ## Installation
+
+
+## TODO
+
+Data Page
+- Load and update existing data.
+- View uploaded data
+- Download all data
+
+Dashboard Page
+
+- Change to date range picker
+- If range is of the same year, compare by months, otherwise compare by years
+- subset data
+
+- Right sidebar layout
+-- Compare [year|month] - default is year
+-- Compare [year|month] - default is this [year|month](default is this) to [year|month](default is last)
+
+- Header
+-- Total donation (caret compared to other)
+-- Number of donors
+-- average donation
+-- retention rate
+
+- left plot time vs donation (switch for cumulative, switch for add events, switch for median)
+-- one line per year
+
+- project types group them
+
+Cosmetic
+- add rokpa icon
+- add footer
+- add email button for me
+
+
+- Bottom Row
+- Top instituional donors, Top private donors
+
+
+
+
+
+
+
